@@ -1,0 +1,91 @@
+@import 'reset.css';
+/* ------------------------*/
+
+
+
+
+
+
+body{
+    margin: 0 auto;   
+    margin-bottom: 40px; 
+    
+    
+    
+    }
+    
+
+
+
+
+
+#myVideo {
+    position: fixed;
+    right: -25%;
+    bottom: -25%;
+    min-width: 100%; 
+    min-height: 100%;
+    z-index: -1;
+    width: auto;
+    height: auto;
+    
+}
+.magnom{
+    background-color:rgb(245, 229, 200);
+    text-align: center;
+    padding-top: 8px;
+    padding: 25px;
+   
+    
+    
+}
+.jaad{
+    width: 90%;
+    margin: 0 auto;
+    text-align: center;
+    padding-top: 75px;
+    font-style: oblique;
+    font-size: 2em;
+}
+img{
+    border-radius: 20px;
+    width: 50%;
+    display: block;
+    margin:auto;
+    
+    
+
+
+}
+.jaad1{
+    height: 475px;
+    width: 475px;
+    background-color: rgb(243, 243, 243);
+    border-radius: 50%;
+    display: inline-block;
+    margin: 0 auto;
+    float: left;
+    text-align: center;
+    width: 25%;
+    padding: 2%;
+    margin: 1%;
+    border:2px solid rgpa(0,0,0,0)
+
+}
+.jaad1:hover{
+    border: 2px solid rgb(236, 222, 194);
+}
+
+
+
+.s1{
+    background-color:#34495e ; 
+}
+.s2{
+    background-color: #2980b9;
+}
+footer{
+    display: block;
+    clear: both;
+    text-align: center;
+}
